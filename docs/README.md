@@ -25,5 +25,5 @@ To set up the SVO project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/SVOzero/SVO1.git
+   git clone https://github.com/SVOzero/SVO.git
    cd svo1
