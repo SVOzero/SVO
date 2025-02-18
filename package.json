@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SVOzero/SVO1.git"
+    "url": "https://github.com/SVOzero/SVO.git"
   },
   "bugs": {
-    "url": "https://github.com/SVOzero/SVO1/issues"
+    "url": "https://github.com/SVOzero/SVO/issues"
   },
   "keywords": [
     "ethereum",
